@@ -1,0 +1,746 @@
+﻿CV OF 12/23/14
+
+Ronald Prescott Loui
+
+r.p.loui@gmail.com (preferred)
+
+http://uisacad5.uis.edu/~rloui2/homepage.html
+
+http://www.cse.wustl.edu/~loui
+
+		EDUCATION
+
+University of Rochester. M.S. 1985, Computer Science. Ph.D. 1987, Computer Science and Philosophy/Cognitive Science. Advisor: Henry E. Kyburg, Jr. Funding: U.S. Army Signals Warfare Laboratory. (5 years)
+
+Harvard. B.A. m.c.l. 1982, Applied Mathematics: Decision and Control (operations research), Intellectual History, and Physics. (3 years)
+
+		ACADEMIC POSTS
+
+University of Illinois-Springfield. 2012-2014. Assistant Professor of Computer Science in the College of Liberal Arts and Science. (3 years)
+
+Washington University in St. Louis. 1988-2008. Associate Professor of Computer Science in the School of Engineering. 1988-present, tenured in 1994. Affiliated with research centers (AI, Computational Intelligence, Semantic Control, and Semantic Network Hardware) and academic programs (Legal Studies/History, Linguistics, and Philosophy). (20 years)
+
+Stanford. Postdoctoral Affiliate, Cognitive Science Program. 1987-1988. Loosely affiliated with CS, CSLI and SRI. Sponsors: Amos Tversky, Paul Rosenbloom, Patrick Suppes, David Israel. Funding: Sloan Fellowship. (1 year)
+
+		INDUSTRY POSITIONS AND CONSULTING
+
+Cleveland Clinic HVI: electronic medical records, inference monitoring, textbased datamining, 2008-11
+
+Cycorp Austin: semantic databases and natural language query, 2008-11
+
+Global Velocity St. Louis: string processing and machine learning on network FPGA's, 2001-06
+
+Streamsearch.com St. Louis: webserver log analysis and usability, 2000
+
+Southwestern Bell/TRI St. Louis: call center expert systems, 1990-92
+
+McDonnell-Douglas St. Louis: real-time path replanning for F-18 fighter-bombers, 1989
+
+Xerox PARC Palo Alto and Webster NY: device diagnostics and prediction, 1988
+
+Rockwell Palo Alto: evidential reasoning, 1988
+
+DEC Hudson MA: internet topology simulation and optimization, 1982
+
+		RESEARCH
+
+	Research Areas 
+
+Interested in cyberwarfare, computer surveillance, electronic medical records, engineering teams and personalities, computer security and systems performance. Founder of the UIS Cyber Range.
+
+Main papers have been on optimal paths, logic of arguments, deep-packet inspection, scripting languages, and cyberwar.
+
+Last university project was for seven years (2001-2008), with Department of Defense contractor (SAIC) and intelligence agency (NSA) on high speed datamining of data streams and hardware-based machine learning algorithms. Deliverables directly supported national intelligence foreign language operations.
+
+Supervised dozens of undergraduate independent study research projects, dozens of high school summer research projects, and dozens of visiting summer undergraduate students. Has supervised hundreds of exploratory software projects in design courses at the graduate and undergraduate level.
+
+	Doctoral Thesis Students
+
+Moshe Looks, Ph.D. Computer Science, 2007. Competent Program Evolution. External advisors D. Goldberg, B. Goertzel, and M. Pelikan. Also M.Sc., 2005, Program Learning with the Bayesian Optimization Algorithm. Google Research. Nominated for the IEEE dissertation award.
+
+Gadi Pinkas, D.Sc. Computer Science, 1992. Inference in Symmetric Connectionist Networks. External advisor D. Touretzky. Successful entrepreneur (formerly with Amdocs, now lecturing in Israel). Nominated for the ACM dissertation award.
+
+Guillermo Simari, D.Sc. Computer Science, 1990. Mathematics of Defeasible Reasoning and Its Implementation. Faculty at Universidad Nacional del Sur, Argentina. Nominated for the ACM dissertation award.
+
+
+	External Thesis Students and Postdoctoral Visitors
+
+Fernando Tohme, Ph.D. Dept. of Economics, Universidad Nacional del Sur, Argentina, 1996 and 1997, now faculty at Universidad Nacional del Sur, Argentina
+
+Bart Verheij, Ph.D. Dept. of Metajuridica, U. of Limburg, Netherlands, 1996, now faculty at U. of Groningen, Netherlands
+
+Gerard Vreeswijk, Ph.D. Computer Science, Vrije Universiteit Amsterdam, Netherlands, 1993, now faculty at Universiteit Utrecht, Netherlands
+
+	Some Supervised Student Researchers & Fellows
+
+	External/Post-Doctoral
+
+*Bart Verheij, Assistant professor, Artificial Intelligence, University of Groningen NETHERLANDS
+
+*Fernando Tohmé, Faculty, Departamento de Economıa, Universidad Nacional del Sur ARGENTINA
+
+Gerard Vreeswijk, Faculty, Department of Information and Computing Sciences, Universiteit Utrecht NETHERLANDS
+
+*Carlos Chesñevar, Faculty, Universidad Nacional del Sur, Departamento de Ciencias e Ingeniería de la Computación ARGENTINA
+
+*Ana Maguitman, Faculty, Universidad Nacional del Sur, Departamento de Ciencias e Ingeniería de la Computación ARGENTINA
+
+Also doctoral dissertation opponent or external committee member: Peter Eklund, U. of Linkoeping, Sweden, George Ferguson, U. of Rochester, Pawan Kumar, IIT-Kanpur, India, Arno Lodder, U. of Limburg, Netherlands. 
+
+	Doctoral
+
++*Guillermo Simari, Head of Research, Universidad Nacional del Sur, Departamento de Ciencias e Ingeniería de la Computación ARGENTINA, Nominated for ACM award
+
++*Gadi Pinkas, Head of Computers & IS, The Center for Academic Studies, Tel Aviv ISRAEL, Director of After Dox and Founder of Gate2Cloud, Nominated for ACM award
+
++*Moshe Looks, AI Researcher at Google Inc, Nominated for IEEE award
+
+Also seventeen doctoral committee memberships (including Mathematics, Systems Engineering, Electrical Engineering, Earth and Planetary Science).  
+
+	Master's
+
+*James Moscola, Assistant Professor of Computer Science and Computer Engineering at York College
+
++*Andrew Levine, Research Engineer at TexelTek
+
+*Adam Covington, Research Associate at Stanford University
+
+Also some external master's committees.
+
+	Undergraduate
+
+*Jersey Chen, Yale MD, Assistant Professor of Medicine, Yale
+
+*Adam Costello, Berkeley PhD, Software Engineer at Google Inc
+
++Diana (Moore) Neuman, VP and Security Expert at En Garde Systems
+
+*Mark Foltz, MIT PhD, Senior Staff Software Engineer at Google Inc
+
+David Saff, MIT PhD (on leave), Software Engineer at Google Inc
+
+*Bill Chen, Berkeley PhD, Mathematics of Poker author and expert
+
+*Stephen Sachs, Yale JD, Assistant Professor of Law, Duke
+
+*Barry Cynamon, Chicago MBA, Visiting Scholar at Federal Reserve Bank StL
+
+*Michael Pachos, Wharton MBA, Principal at Samsung Capital Ventures
+
+Also Ben Weber, Bachelor's thesis and dozens of independent study students, summer interns.
+
+	High School
+
+*Joe Altepeter, Illinois PhD, formerly Research Assistant Professor of EECS/Physics, Northwestern University
+
+*Jessica (Linsday) Mikale, Missouri JD, Prosecutor for Missouri county
+
+Kyle Ormsby, Michigan PhD, Instructor, Department of Mathematics, MIT
+
+Eric Wofsey, Harvard PhD (in progress), Department of Mathematics, Harvard
+
+About a dozen other high school summer interns.
+
+	*co-author, +thesis advisor or supervisor
+
+	Funding
+
+Applied Research: Grants of $563k, and $859k as co-PI ($1.4M) for work on software-hardware co-design for OC-48 and OC-192 document clustering and classification in multiple languages, sponsored by Global Velocity and SAIC, 2003-2005 with J. Lockwood, 2005-2007 with J. Lockwood, R. Pless, W. Smart.
+
+Fundamental Research: Grants of $199k, $120k, and $109k as PI and co-PI ($428k) for work on models of negotiation and argumentation, sponsored by NSF, 1990-1992, 1993-1995, 1997-2001 with T. Sandholm.
+
+Research Education: Grants of $84k, $110k, $35k, and $35k as PI and coPI for summer research experiences for undergraduates (REU), sponsored by NSF, and $4k and $3k supplements, 1990-1991 with W. Gillett, 1991, 1991-1992, 1992-1994, 1995-1996, 1997. Hardware donations of approximate $5k value from alumni. ($276k) NSF REU Site proposal with K. Dungey under review, 2014.
+
+Research Symposia: Support of $10k, $3k, $3k and $2k ($18k) from various sources for funding of academic symposia including NSF and McDonnell Douglas.
+
+	Patent
+
+J. Lockwood, M. Pachos, J. Moscola, and R. Loui. U.S. Patent application 5/21/02, 53047/9014 Methods, Systems, and Devices Using Reprogrammable Hardware for High-Speed Processing of Streaming Data to Find a Redefinable Pattern and Respond Thereto. Issued 8/15/06 as U.S. 7093023. Intellectual property basis for two licensing agreements, including Global Velocity's founding technology, St. Louis RCGA #1 Start-Up of 2003 and Missouri Technology company of the year 2008.
+
+Currently preparing to disclose a two-stage protocol for window-whitelisting and dynamic port assignment to mitigate scanning attacks, with R. Salvador, 2014-2015.
+
+	Scholar.Google Citation Counts
+
+Citations for top-10 papers (*single-authored): 559, 519, 300, 250*, 232*, 153*, 98, 64, 63, 59; h-index=19, 15 with co-author normalization
+
+	Publications on Homeland Security and Network Security
+
+R. Loui. Disruption, Damage, Decimation, and Destruction:  Risk Profiles for Cyber Weapons, in preparation, 2014-2015.
+
+R. Loui. Drones, autonomous cyber weapons, and the concentration of responsibility, under revision, 2013-2015.
+
+R. Loui and T. Loui. How to survive a cyber Pearl Harbor, IEEE Computer, accepted, to appear, 2015.
+
+A. Ratner and R. Loui. High speed identification of language and script, Workshop on Data Stream Mining and Management DSMM, at IEEE International Conference on Data Mining, 2007.
+
+M. Looks, A. Levine, G. A. Covington, R. P. Loui, J. W. Lockwood, Y. H. Cho. Streaming hierarchical clustering for concept mining, IEEE Aerospace Conference, 2007.
+
+A. Levine, R. Loui, J. W. Lockwood, Y. H. Cho. Sensitivity analysis of gigabit concept mining system, IEEE Aerospace Conference, 2007.
+
+J. B. Sharkey, D. Weishar, J. Lockwood, R. Loui, et al. Information processing at very high-speed data ingestion rates, in Emergent Information Technologies and Enabling Policies for Counter Terrorism, Popp and Yin, eds., IEEE Press/Wiley, 2006.
+
+S. Eick, J. Lockwood, R. Loui, et al., Hardware accelerated algorithms for semantic processing of document streams IEEE Aerospace Conference, 2006.
+
+J. Lockwood, S. Eick, D. Weishar, R. Loui, et al. Transformation algorithms for data streams, IEEE Aerospace Conference, 2005.
+
+J. Moscola, M. Pachos, J. Lockwood, R. Loui. FPsed: a streaming content search-and-replace module for an internet firewall, Hot Interconnects (HotI), 
+2003.
+
+J. Moscola, J. Lockwood, R. Loui. Implementation of a content-scanning module for an internet firewall, Symposium on Field-Programmable Custom Computing Machines (FCCM), 2003.
+
+	Publications on Computing Practices, Computing, User Interfaces, and Education
+
+R. Loui. Extraverted Women Prefer Java (and Intraverted Women Do Not): A Preliminary Study of Myers Briggs Types and Programming Language Preference, submitted to CACM, under review, 2014.
+
+R. Loui. In praise of scripting: toward a real programming pragmatics, IEEE Computer 41, 2008.
+
+R. Loui. Three kinds of machines we program, AI and Virtual Reality, Postiglione and Brungs eds., 2005 (invited). Also Theological Encounter with Science and Technology Workshop, ITEST, 2004.
+
+R. Loui. Review of Brian Smith's Origin of Objects, Artificial Intelligence 106, 1999 (invited).
+
+R. Loui. Some philosophical remarks on the foundations of computing, read at Society for Exact Philosophy (SEP), 1998.
+
+R. Loui. Why gawk for AI? ACM SIGPLAN 32, 1996 (invited). Translated into several languages, 2002, and included in standard gawk distribution.
+
+R. Loui. User's manual for CCRC: (common) computing reference classes, statistical reasoning shell v. 2.5, WU CS TR 89-8, 1989.
+
+R. Loui. Evidential reasoning in a network usage prediction testbed, Uncertainty in AI IV, Schachter, Levitt, Kanal, and Lemmer, eds., North-Holland, 1990. Also Uncertainty Workshop IV, 1988.
+
+D. Chiu, D. Ting, R. Jain, R. Loui, and W. Hawe. Impact, design, and use of etherbridge, Digital Equipment Corporate Research Report, 1983.
+
+R. Loui. Optimal paths in graphs with stochastic or multidimensional weights, Communications of the ACM (CACM), 26, 1983. Summa cum laude undergraduate thesis. UR CS TR 115, 1982. Reprinted in Bit (Japan), 1984. Invited paper at Operations Research Society Conf. (ORSA/TIMS), 1984. Also a response to M. Henig over the article, CACM 28, 1985.
+
+R. Loui. Letter in response to J. Peterson's article on automatic spellchecking, CACM 27, Forum, 1981.
+
+	Publications on E-Government, Public Legal Technology, and Multiagent Systems
+
+T. Bench-Capon, M. Araszkiewicz, K. Ashley, K. Atkinson, F. Bex, F. Borges, D. Bourcier, D. Bourgine, J. Conrad, E. Francesconi, T. Gordon, G. Governatori, J. Leidner, D. Lewis, R. Loui, L. McCarty, H. Prakken, F. Schilder, E. Schweighofer, P. Thompson, A. Tyrrell, B. Verheij, D. Walton & A. Wyner, A history of AI and Law in 50 papers: 25 years of the international conference on AI and Law, Artificial Intelligence and Law 20, 2012.
+
+R. Loui. A modest proposal for annotating the dialectical state of a dispute, SCRIPT ed 5, 2008 (invited).
+
+R. Loui. Comment on the Cardozo conference on graphic and visual representations of evidence and inference in legal settings, Law, Probability, and Risk 6, 2007 (invited).
+
+M. Looks and R. Loui. On game mechanisms and procedural fairness: preliminary framework, JURIX 2005.
+
+M. Looks, R. Loui, and B. Cynamon. Dynamics of rule revision and strategy revision in legislative games, JURIX 2005.
+
+E. Rissland, K. Ashley, and R. Loui. AI and Law, a fruitful synergy, and eds., special issue on AI and Law, Artificial Intelligence 150, 2003.
+
+B. Verheij, A. Lodder, R. Loui, and A. Muntjewerff, eds., Legal Knowledge and Information Systems JURIX, IOS Press, 2001. 
+
+R. Loui and M. Tutunaru. Fed cite harvest: receillir les jurisprudences importantes, Droit et Intelligence Artificialle, Bourcier, Hassett, and Roquilly, eds., Romillat, 2000.
+
+R. Loui. Review of Jaap Hage's Rules and Reasons, Artificial Intelligence and Law 8, 1999 (invited).
+
+R. Loui. Review of Henry Prakken's Logical Tools for Modelling Legal Argument, J. of Symbolic Logic 64, 1999 (invited).
+
+R. Loui. One hundred observations about fair games, read at Workshop on Legal Argumentation, 1998 (invited).
+
+R. Loui and J. Norman, et al. Progress on Room 5: public interactive semiformal legal argument, Intl. Conf. on AI and Law (ICAIL), 1997. Abstract given at Conf. on French-American AI and Law, 1998.
+
+R. Loui and D. Moore. Dialogue and deliberation, 1997. WU CS TR 97-11.
+
+R. Loui and J. Norman. Eliding the arguments of cases, WU CS TR 97-12, 1997.
+
+R. Loui. Logic of arguments, and arguments of cases, World Congress of the Intl. Assoc. for Philosophy of Law and Social Philosophy (IVR), 1997.
+
+R. Loui. Report on The Workshop on Computational Dialectics, AI Magazine 16, 1995 (invited).
+
+R. Loui. Models of deliberation in the social sciences, issue on Strategic Directions in AI, ACM Computing Surveys 27, 1995 (invited).
+
+R. Loui and J. Norman. Rationales and argument moves, Artificial Intelligence and Law 3, 1995. WU CS TR 93-03.
+
+R. Loui. An argument and arbitration game (precis), AAAI Workshop on Computational Dialectics, 1994.
+
+R. Loui. Should those who exercise the authority of rules also know the cases? read at Workshop on Human and Machine Cognition, 1993. Also Human and Machine Cognition Workshop papers, 1989, 1991, 1993, WU CS TR 93-27, 1993.
+
+R. Loui, J. Norman, J. Olson, and A. Merrill. A design for reasoning with policies, precedents, and rationales, Intl. Conf. on AI and Law (ICAIL), ACM Press, 1993.
+
+R. Loui. How a formal theory can be normative: interpretation vs. implementation, J. of Philosophy 90, 1993. Also read at Workshop on Human and Machine Cognition, 1991.
+
+	Publications on Artificial Intelligence, Applied Logic, Cognitive Science and Decision Theory
+
+R. Loui. Scientific and Legal Theory Formation in an Era of Machine Learning: Remembering Background Rules, Coherence, and Cogency in Induction, APA Philosophy & Computers Vol 14, No. 1, 2014.
+
+R. Loui. Paths to Defeasibility: Reply to Schauer on Hart, APA Philosophy & Computers Vol 12, No. 2, 2013.
+
+R. Loui. An architecture for purely probabilistic negotiating agents: pessimism and punishment, laissez-faire paths, and one-sided rationality, Probability and Inference: Essays in Honour of Henry Kyburg, Jr., Harper and McClennan eds., College Books, 2007 (invited).
+
+R. Loui. A citation-based reflection on Toulmin and argument, Argumentation 19, 2005 (invited). Also included in Arguing on the Toulmin Model: New Essays in Argument Analysis and Evaluation, Argumentation Library v. 10, Hitchcock and Verheij, eds., 2006.
+
+R. Loui. A mathematical comment on the fundamental difference between legal theory formation and scientific theory formation, Computational Models of Scientific Reasoning and Applications (CMSRA), 2005.
+
+C. Chesnevar, A. Maguitman, R. Loui. Logical models of argument, ACM Computing Surveys 32, 2000.
+
+R. Loui. Case-based reasoning and analogy, MIT Encyclopedia of Cognitive Science, Wilson and Keil, eds., MIT Press, 1998 (invited).
+
+R. Loui. Process and policy: resource-bounded non-demonstrative argument, Computational Intelligence 14, 1998. WU CS TR 92-43.
+
+R. Loui. Alchourron and von Wright on conflicting norms, Nute, ed., Defeasible Deontic Logic, Kluwer, 1997 (invited). Also presented at Workshop in 
+Honor of Carlos Alchourron, 1996.
+
+F. Tohme and R. Loui. Alchourron's defeasible conditionals and defeasible reasoning, Logica, Informatica, Diritto, 1996 (invited). Logica Della Norme, Martino, ed., 1997. WU CS TR 97-03.
+
+R. Loui. Review of Meyer and Wieringa: Deontic Logic in Computer Science, featured, ACM Computing Reviews 37, 1996 (invited).
+
+R. Loui. Back to the scene of the crime: who survived Yale shooting, Ford and Pylyshyn, eds., The Robot's Dilemma Revisited, Ablex, 1996. Also presented at Workshop on Human and Machine Cognition, 1989.
+
+R. Loui. Hart's critics on defeasible concepts and ascriptivism, Intl. Conf. on AI and Law (ICAIL), College Park, ACM Press, 1995.
+
+R. Loui. Foucault, Derrida, Women's Speaking Justified, and Modelling Legal Argument, Artificial Intelligence and Law 3, 1995 (invited).
+
+R. Loui, J. Norman, A. Merrill, K. Stiefvater, J. Olson, and A. Costello. Computing specificity. WU CS TR 93-03, 1993.
+
+R. Loui and J. Chen. Clothespins on timelines: utility interval representation of time, WU CS TR 93-05, 1993.
+
+R. Loui. Kyburg and Volkswagens, Computational Intelligence 10, 1993 (invited).
+
+R. Loui and W. Chen. An argument game, WU CS TR 92-47, 1992.
+
+G. Simari and R. Loui. A mathematical treatment of defeasible reasoning and its implementation, Artificial Intelligence 53, 1992. Also WU CS TR 89-12.
+
+G. Pinkas and R. Loui. Reasoning from inconsistency, Conf. on Principles of Knowledge Representation and Reasoning (KR), Levesque and Brachman, eds., Morgan Kaufman, 1992. WU CS TR 91-27, 1991.
+
+R. Loui. Argument and belief: where we stand in the Keynesian tradition, Minds and Machines 1, 1991 (invited). Also AAAI Spring Symposium on Argument and Belief, 1991.
+
+R. Loui. Report on The Workshop on Defeasible Reasoning with Specificity and Multiple Inheritance, AI Magazine 11, 1991 (invited). Also expanded report, WU CS TR 90-22, 1990, with M. Kahn and G. Simari.
+
+R. Loui and N. Jain. Exact dominance without search in decision trees, Workshop on Normative Systems, 1991. WU CS TR 92-51, 1992.
+
+R. Loui. Dialectic, computation, and ampliative inference, Philosophy and AI, Pollock, and Cummins, eds., MIT Press, 1991 (invited). Also precis delivered at Midwest AI and Cognitive Science Conference, 1990. WU CS TR 89-41.
+
+R. Loui and J. Dorosh. Edited partial transcription of The Workshop on Defeasible Reasoning with Specificity and Multiple Inheritance, ACM SIGART 2, 1991. WU CS TR 90-35, 1990.
+
+H. Kyburg, R. Loui, and G. Carlson, eds. Knowledge Representation and Defeasible Reasoning, Kluwer, 1990.
+
+G. Simari and R. Loui. Confluence of argument systems: Poole's rules revisited, Workshop on Non-Monotonic Reasoning (NONMON3), 1990.
+
+R. Loui. Defeasible decisions: what the proposal is and isn't, Uncertainty in AI V, Henrion, Schachter, Kanal, and Lemmer, eds., North-Holland, 1990. Also Uncertainty Workshop, 1989. WU CS TR 89-30, 1989.
+
+R. Loui. Analogical reasoning, defeasible reasoning, and the reference class, Conf. on Principles of Knowledge Representation and Reasoning (KR), Levesque and Brachman, eds., Morgan Kaufman, 1989. WU CS TR 89-7, 1989.
+
+R. Loui. Some inflammatory theses, Workshop on Defeasible Reasoning with Specificity and Multiple Inheritance, St. Louis, 1989. Also Benchmark problems for nonmonotonic systems, distributed.
+
+R. Loui. Two heuristic functions for utility, AAAI Spring Symposium on Limited Rationality, 1989. Also WU CS TR 89-9, 1989.
+
+R. Loui. Defeat among arguments II, WU CS TR 89-6, 1989.
+
+R. Loui. The curse of Frege, Conf. on Theoretical Aspects of Reasoning about Knowledge (TARK), Vardi, ed., Morgan Kaufman, 1988 (invited).
+
+R. Loui. Defeasible specification of utilities, presented at Society for Exact Philosophy 17, 1988 (invited). Also in Knowledge Representation and Defeasible Reasoning, Kyburg, Loui, and Carlson, eds., Kluwer, 1990.
+
+R. Loui. Real rules of inference: acceptance and non-monotonicity in AI, Communication and Cognition - AI 5, 1988. Also UR CS TR 191, 1985.
+
+R. Loui. Theory and Computation of Uncertain Inference and Decision, doctoral dissertation, U. of Rochester, 1987. Also UR CS TR228.
+
+R. Loui. Nozick's acceptance rule and the lottery paradox, Analysis 47, 1987.
+
+R. Loui. Response to Hanks and McDermott: temporal evolution of beliefs and beliefs about temporal evolution, Cognitive Science 11, 1987.
+
+R. Loui. Review of Harman's change in view, Artificial Intelligence 32, 1987.
+
+R. Loui. Defeat among arguments: a system of defeasible inference, Computational Intelligence 3, 1987. UR CS TR 190, 1986.
+
+R. Loui. Computing reference classes, Uncertainty in AI II, Lemmer and Kanal, eds., North-Holland, 1987. Also Uncertainty Workshop, 1986.
+
+R. Loui. Decisions with indeterminate probabilities, Theory and Decision 21, 1986.
+
+R. Loui. Interval-based decisions for reasoning systems, Uncertainty in AI, Kanal and Lemmer, eds., North-Holland, 1986. Also, Uncertainty Workshop, Los Angeles, 1985 with J. Feldman and H. Kyburg.
+
+Independent Publications by Students and Staff during Supervision include thirteen refereed papers and twenty total papers as independent authors in Artificial Intelligence (4x), Journal of AI Research, Machine Intelligence and Pattern Recognition, Neural Computation, AAAI, IJCAI, GECCO, and NIPS.
+
+		SERVICE AND LEADERSHIP
+
+	Journals Refereed
+
+Advanced Computational Intelligence
+
+Annals of Mathematical Computing
+
+Annals of Mathematics and AI
+
+Argumentation
+
+Artificial Intelligence (AI Journal)
+
+AI and Law
+
+AI and Society
+
+Autonomous Agents and Multiagent Systems
+
+Communications of The ACM (CACM)
+
+Computational Intelligence
+
+Computers and Mathematics with Applications
+
+Games and Economic Behavior
+
+Group Decision and Negotiation
+
+IEEE Expert
+
+IEEE Transactions on Knowledge and Data Engineering
+
+Intl. J. of Approximate Reasoning
+
+Intl. J. of Intelligent Systems
+
+J. of AI Research (JAIR)
+
+J. of The Association for Computing Machinery (JACM)
+
+J. of Logic and Computation (JLC)
+
+Minds and Machines
+
+Monist
+
+Structured Programming
+
+Synthese
+
+Also 30 conferences, 20 program committees, 7 funding agencies (NSF, DHS, Oak Ridge, JAPAN, UK, EUROPE, CANADA), 4 NSF panels, one European faculty promotion, and 5 minor editorial boards.
+
+Most recently reviewing for Department of Homeland Security (DHS) funding panel in Washington, D.C., 2011 and 2012.
+
+	Conference Organization (as Main Organizer)
+
+SEP (Society for Exact Philosophy), St. Louis, 2002
+
+ICAIL (International Conference on AI and Law), St. Louis, 2001
+
+MiniSymposium on Interactive Foundations of Computing, St. Louis, 1997
+
+AAAI Workshop on Computational Dialectics, Seattle, 1994
+
+Workshop on Defeasible Reasoning and Multiple Inheritance, St. Louis, 1989
+
+	University, Engineering School, and Department Service
+
+WUSTL University Residential College Faculty Associate (04)
+
+WUSTL University Information Technology in Medical Education Committee (04)
+
+WUSTL University Board of Trustees Undergraduate Committee (02-04)
+
+WUSTL University Bookstore Advisory Committee (02-04)
+
+WUSTL University Chancellor's Management Team Research Speaker (01)
+
+UIS University Undergraduate Research Committee (13-14)
+
+WUSTL SEAS Engineering Library (89-90)
+
+WUSTL SEAS Engineering 2001 Report (90-91)
+
+WUSTL SEAS Library Liaison (90-91-92-93)
+
+WUSTL SEAS Speaker of Engineering Faculty Assembly (01-02)
+
+WUSTL SEAS Voting Member of Executive Committee (01-02)
+
+WUSTL SEAS Tenure Committees (both successful)
+
+UIS CLAS Curriculum Committee (14)
+
+WUSTL Department Graduate Admissions (88-89-90-91, 99-00-01, twice chaired)
+
+WUSTL Department Graduate Recruiting (00-01 chair)
+
+WUSTL Department Doctoral Committee (98-99 chair)
+
+WUSTL Department Summer Research (90-00 chair)
+
+WUSTL Department Technology Adoption Committee (99-00-01)
+
+UIS Department Faculty Search Committee (13 co-chair)
+
+UIS Department By-Laws Committee (13-14)
+
+		LECTURES AND PRESENTATIONS
+
+	Invited speaker at Meetings
+
+Regional Commerce Growth Assn. St. Louis, MO 2003
+
+Spanish National AI Conference 2003
+
+Keynote speaker at JURIX 2006 
+
+FBI INFRAGARD Regional Event on Mobile Security 2013
+
+FBI INFRAGARD Regional Event on Cyber Defense 2014
+
+Assn. for Public Administrators Regional Event on Cybersecurity 2014
+
+	Invited panelist
+
+First Knowledge Representation and Reasoning Conference 1988
+
+Harvard Club of St. Louis 1998
+
+University of Rochester Campus-Wide Symposium on Probability as a Guide to Life 2004
+
+Olin Women's Graduate Fellowship Panelist 2006
+
+Conference on Visual Representations of Evidence, Yeshiva Law School 2007
+
+	Week-long supported visits at universities or labs
+
+University of Linkoeping CS, SWEDEN
+
+ICOT (5th Generation Project) Tokyo, JAPAN
+
+Universidad Nacional del Sur CS, ARGENTINA
+
+Vrije Universiteit Amsterdam CS, NETHERLANDS
+
+University of Maastricht Law, NETHERLANDS
+
+Bonn GMD (Gesellschaft fuer Mathematik und D.v.), GERMANY
+
+Universita Degli Studi Di Pisa Law, ITALY
+
+	Short visits as colloquium or symposium speaker
+
+Brown University CS (job interview), RI
+
+SUNY Albany CS (job interview), NY
+
+UC Boulder CS and Cognitive Science (job interview), CO
+
+U Michigan EE and CS (job interview), MI
+
+UI Chicago CS (job interview), IL
+
+Brandeis CS and EE (job interview), MA
+
+Washington University CS (job interview), MO
+
+SUNY Buffalo CS and Cognitive Science, NY
+
+UI Urbana CS and Library Science, IL
+
+UCLA (AI class), CA
+
+Stanford U CSLI, CA
+
+Xerox, Webster, NY
+
+Saarbruecken DFKI (Deutsches F.z. fuer Kunstliche Intelligenz), GERMANY
+
+University of Rochester CS and Philosophy, NY
+
+University of Georgia, CS and Philosophy, GA
+
+Washington University Philosophy, MO
+
+CMU Philosophy, Linguistics, and Robotics (two talks), PA
+
+U Cincinatti CS (AI class), OH
+
+Northeastern U Law, MA
+
+Meijigakuin Law, JAPAN
+
+Washington University Economics and Political Science, MO
+
+University of Rochester campus-wide event, NY
+
+Universidad del Pais Vasco CAEPIA, SPAIN
+
+UMSL Math and CS, MO
+
+UI Urbana CS/Robotics, IL
+
+GE (job interview), NY
+
+Rand Corporation (job interview), CA
+
+	Individually invited to events hosted by universities
+
+U West Florida Cognitive Science HMC, FL
+
+Chicago-Kent IIT Law WAI, IL
+
+Sorbonne Law JURIX, FRANCE
+
+Vrije Universiteit Brussels Law JURIX, BELGIUM
+
+Nice EDHEC (Ecole de Hautes Etudes Commerciales) FAAIL, FRANCE
+
+Washington University Law ICAIL, MO
+
+Cardozo Law, Yeshiva University, NY
+
+	Attendee or presenter at events hosted by universities
+
+CMU AAAI, PA
+
+UCLA AAAI, CA
+
+U Penn AAAI, PA
+
+U Minnesota Unc AI, MN
+
+Catholic U Unc AI, DC
+
+Brandeis Northeast W. AI, MA
+
+Stanford U Spring Symp. AI and Fall Symp. AI, CA
+
+U Toronto Northeast W. AI, CANADA
+
+U Pittsburgh Unc AI, PA
+
+Vrije Universiteit Amsterdam Law ICAIL, NETHERLANDS
+
+SIU Carbondale MAI and Cognitive Science, IL
+
+U Maryland Law ICAIL, MD
+
+U Melbourne Law ICAIL, AUSTRALIA
+
+Universidad de Buenos Aires Law IVR, ARGENTINA
+
+U Chicago Law SAIL, IL
+
+Also participated in academic events outside Universities.
+
+		TEACHING 
+
+	Courses Assisted as an Undergraduate Student at Harvard
+
+ES119 Introduction to Decision and Control (Optimization)
+
+	Courses Taught as a Graduate Student at the University of Rochester
+
+CSC170* Introductory Programming (in Pascal)
+
+CSC440* Graduate Artificial Intelligence
+
+CSC571* Introduction to Cognitive Science
+
+*using closest current course numbering
+
+	Courses Taught as a Professor at Washington University
+
+CS100 Computing Tools**
+
+CS141 Web Services and Web Enterprise (experimental course)
+
+CS104/160 Web Development (new course developed)
+
+CS201/301 Formal Foundations of CS
+
+CS300 Art and Science of CS (experimental course)
+
+CS313 AI Laboratory (new course developed)**
+
+CS363 Server-Side and CGI Scripting (new course developed)
+
+CS436/456 Software Engineering/Software Project Management
+
+CS547/507 Formal Languages and Automata**
+
+CS511 Artificial Intelligence I
+
+CS512 Artificial Intelligence II
+
+CS513 Knowledge Engineering
+
+CS513A AI (Entrepreneurial) Programming Project
+
+CS540 Formal Foundations of CS (course redeveloped)
+
+CS580 Topics in Knowledge Representation (experimental course)
+
+CS6742 Research Seminar in AI
+
+**Offered more than a dozen times
+
+	Courses Taught as a Professor at University of Illinois
+
+CSC315 Robo Ethics***
+
+CSC368 Systems Programming Languages***
+
+CSC452 Web Design***
+
+CSC453 Web Development and Programming***
+
+CSC454 Client Side Scripting***
+
+CSC570-1 Cyber Warfare***
+
+CSC570-2 Computer Surveillance***
+
+***Taught online at least once
+
+
+		MAJOR SOFTWARE PROTOTYPES
+
+rcstat/rd - automated statistical and defeasible reasoners
+
+lmnop - legal precedent automated reasoner
+
+hserver - Harvard alumni mailserver social network
+
+argcol - argument formatting
+
+313games - stratego, soccer, football, baseball simulators for AI optimizations
+
+hterm/webvi/webmail/webshell - unix tools with cgi interface
+
+mcow - server support for lightweight and band-limited clients
+
+log replayer - for streamsearch.com
+
+argument game - model of legal analogy
+
+negotiation game - model of bargaining process
+
+mmmalloc - memory allocation to improve locality
+
+room5 - legal citation mining, citation-ranked search, and e-gov portal
+
+best shots - automatic rating of photographs
+
+colorscheme - automatic analysis of composition and colors
+
+djtools - web server image manipulation tools
+
+boris - clustering demo with simulated annealing & visualization
+
+fpgrep/fpsed - hardware-based streaming string processing
+
+bb/afe/winnow - for SAIC
+
+foreign language & script triage - for NSA
+
+EMR/dashboard/data analysis tools - for Cleveland Clinic 
+
+text mining/ontology & proof tree visualizations - for Cycorp
+
+update.cgi - fast/contextual/expressive discussion board for UIS students
+
+		LANGUAGES INTO WHICH WORK HAS BEEN TRANSLATED
+
+French, Japanese, Turkish
+
+		LANGUAGES IN WHICH WORK IS CITED OR REPORTED
+
+Italian, French, Portuguese, Spanish, Japanese, Korean, Chinese, Greek, Polish, Ukrainian, Hungarian, Dutch, German
+
+		OTHER NOTABLE PROFESSIONAL
+
+Shared ACM George S. Forsythe prize, 1983, for best U.S. undergraduate paper. Organized Harvard Internet Alumni Association, 1992. Founding member of the Knowledge Representation and Reasoning (conference) corporation, 1992. Officer of the International Association for AI and Law, 1999-2001. STEM Research Mentoring Award from UMSL. Founding member/section editor of the Harvard International Review Military/Technology section at JFK School of Government Institute of Politics.
+
+Expert user of the Unix system and its associated tools, and is a gawk user guru. Thousands of hours using image manipulation tools such as Photoshop and manipulating dynamic web sites in dhtml, css, javascript, and cgi programming. Some systems administration and familiarity with many scripting languages such as php, perl, tcl, and others, including matlab. Formerly an early Pick-basic, fortran, and lisp programmer. Experience with simulations, rapid prototyping, service innovation, workflow paradigm-shifts, and software project management functions.
+
+		PERSONAL
+
+Born 12/61 in Honolulu, Hawaii. Graduate of Punahou School.  Married to Melissa Clark.
+

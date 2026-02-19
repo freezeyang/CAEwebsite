@@ -1,0 +1,540 @@
+Revised for IEEE COMPUTER 12 December 2014
+
+How to Survive a Cyber Pearl Harbor
+
+Ronald P. Loui (CSC U Illinois Springfield IL)
+
+Terrence D. Loui (DISA-PAC HI, ret.*)
+
+
+There may be good reason to cite Pearl Harbor when seeking to draw
+attention to cyber vulnerabilities.  Pearl Harbor is a reminder of
+the risks of feeling invulnerable, of being unprepared for, complacent
+toward, or doubtful of such an attack.  Pearl Harbor also represents the
+obsolescence of a long untested military, especially when faced with
+a shift in paradigm.  Finally, Pearl Harbor iconically symbolizes an
+attack on the U.S. homeland from distant lands by foes thought incapable
+of such treachery and ability.
+
+December 7th, 1941 was indeed a "Day of Infamy."  Although younger IT
+professionals may no longer be able to place the date on the calendar,
+most understand that it was a precursor to 9/11 and was the U.S. entree
+into the Pacific Theater of World War II.  Most know it was a dreadful
+day for the U.S. Navy (USN) when many Imperial Japanese Naval (IJN)
+objectives were met.
+
+The important thing to remember about Pearl Harbor is that the Japanese
+victory was incomplete.  There was no IJN third wave of aerial attack,
+and U.S. Naval fuel reserves remained intact, pampered under Red Hill,
+three miles north of the harbor lochs.  Few people know how impressive
+the U.S. Army Air Force (USAAF) air-to-air scores were: 8-0 against
+Japanese ground attack planes, and possibly 8-1 against the vaunted
+Mitsubishi A6M Zeroes (more U.S. planes were lost to friendly fire than
+to air-to-air combat, and the Japanese air superiority wings returned
+to their carriers after a short time).
+
+Thus Pearl Harbor is not only a symbol of surprise attack, it is also
+a lesson in surviving such an attack.
+
+The Japanese realized after the second wave that the island defenses had
+become too well organized for attack to continue.  Further, it would
+be too much of a risk, not knowing the location of the USN carriers,
+to remain in distant waters rather than withdraw.  Arguably, if U.S. 
+search planes had located the Japanese carriers by early afternoon, the
+attacker's victory might have turned into a tactical loss on that very day
+(finding the launch site is no easier in today's electronic engagements).
+
+As with most cyberattack scenarios, when contemplating an electronic
+Pearl Harbor, one must consider primary command and control effects,
+secondary effects on operations and infrastructure, tertiary effects
+on institutions and economies, and the morale of a nation.  There are a
+number of useful analogies within this scenario that can be translated
+into lessons for cyber war (although there are limits to even the best
+analogies).  The lessons that follow are those we deem most relevant.
+
+
+Connectivity + Shared Logic in Cyber War = Shared Space in Kinetic War
+
+First, what went wrong?  The planes were famously parked wingtip to
+wingtip at the major air fields, under the orders of General W. Short,
+except for a line of P-36s at Wheeler AFB that had been removed the
+night before.  The ships were juxtaposed, under the orders of Admiral
+H. Kimmel, bottled up in shallow harbor and in dry dock.  While this
+appeared impressively secure on paper, it led to disaster.  Multiplicative
+damage was possible because of co-location.  Because targets were so
+close, torpedo and bomb accuracy was increased, and first class targets
+could be included as side-effects to other targets.
+
+The corresponding situation today is the shared configuration:  a
+single platform, the same operating system, one middleware approach,
+one compiler or database vendor, one administrator password, or a 
+root account to open them all.  When many machines share program logic
+or share a network, a single exploit can open them all to attack.
+When all machines are running related versions of Java, one bug in one
+library exposes them all at the same time.
+
+In cyberspace, two computers could be miles away, but if they are
+connected, and use the same mail reader or Oracle release, they are
+attackable simultaneously.  The replication and duplication that makes
+it possible to manage a fleet of machines is the same replication and
+duplication that makes them go down in the one event.
+
+This is possibly the most important transformation from kinetic war to
+cyber war:  position in space is logic in cyberspace.
+
+Commercial databases can be mirrored in mysql databases, or even
+non-relational stores (this is how server and network outages were
+endured when one author consulted at the Cleveland Clinic).  Instead of
+insisting that Java, C++, and Ada be used everywhere, one might justify
+python, ruby, and C# on the grounds that they add logical distinctions.
+It may be anathema to organizations that like to have official versions
+and standardized software, but survivability suggests personnel using
+multiple browsers, multiple search engines, multiple mail clients,
+different URLs for replicated web services, etc.  The real push should
+be for varying configurations.
+
+An early attack that one author witnessed started on one Physics
+Department compute server, spread to dozens of Engineering machines
+through the mailserver, then interrupted hospital operations, through
+a hundred similarly configured Solaris NFS workstations.  Twenty years
+later, collateral damage is two orders of magnitude larger:  the Iranian
+attack on Saudi ARAMCO brought down 30,000 computers because of a single
+Master Boot Record disk vulnerability in Windows System32 machines that
+were too similarly specified and targeted by Shamoon.  (Symantec 2012
+and 2014, Infosecurity Magazine 2014)
+
+Many have called for producing logical variation automatically.
+DARPA's 2014 program for "Cyber Fault-Tolerant Attack Recovery" with
+transformations of program binaries is an example of an attempt to build
+additional heterogeneity into systems post hoc.  DARPA lists as a 2011
+accomplishment, "a novel compiler that generates distinct binary files
+for every new compilation of the source code."  Individualized computer
+immune systems date at least to Forrest et al., 1997.
+
+Different weapons systems are like different computing platforms.
+The USN submarines and docks at Pearl Harbor survived the attack, and
+were of course instrumental in winning the Pacific War.  One can hope in
+a cyberattack that different platforms would have different prospects for
+survival.  
+
+
+Internal Security Retards Response Under Attack
+
+On December 7th, there may have been reasonable fears of sabotage threats
+from disloyal local citizens.  Lockdown assuaged the commanding officers'
+reasonable fears of these threats.  But locking down the airfields
+famously prevented rapid effective response when the airfields were
+under enemy fire.  Ammunition and fuel were separated from planes,
+which were separated from pilots, each separately secured.
+
+An inconvenient fact is that the U.S. planes that first made it into
+the air were those that had been parked in violation of the airfield's
+security protocol.  The P-36s that 1st Lieutenant Lew Sanders and his wing
+flew out of Wheeler were parked separately the night before, essentially
+because the secured parking area was full.
+
+Imagine dozens of cyber warriors trying to respond to an attack but
+locked out by the failure of internal controls, such as a password
+authentication server failure, the electronic equivalent of a locked
+hatch in a sinking ship.
+
+Or imagine a network engineer trying to patch and reconfigure quickly,
+to put servers out of reach, possibly on a different LAN, only to fail
+because of too aggressive a data-loss-prevention firewall that blocks
+unknown ports, the electronic equivalent of being locked in by a harbor
+torpedo net.
+
+"The last hangar held all the refueling trucks, completely filled with
+gasoline.  We tried to move them but found no keys." (Lieutenant Francis
+Gabreski, Horvat)
+
+A cyber warrior with powerful resources can often restore breached
+machines through quick and clever action; we must admit the possibility
+of heroic cyber initiative.  This is especially important when the
+rules constraining the responses are exactly the rules being exploited
+and co-opted by the attackers.  Some of this appears to be the thinking
+behind the current Air Force Rome Labs solicitation for "agile" cyber
+defenses (Department of the Air Force, BAA-RIK-14-07).
+
+A systems administrator who must "suid" for every "bin" command can
+be like a P-36 Wheeler pilot ready to fly, but watching his plane sit
+in flames.  
+
+A recent report in an AFCEA Signal article reported this phenomenon:
+
+"all too often, the security team is 'beating the administrators over
+the head' to convince them to use more security tools." (Seffers)
+
+
+Network, but Don't Tether and Dock Together
+
+The existence of a large number of computers does not require that
+machines be connected in a highly exploitable way.  
+
+It has been the desire of commercial computing companies to provide
+functionality to corporate and casual users who can be, frankly, naive
+and lazy.  Marketing to these consumers has led to licentious design
+and engineering:  docking, tethering, unsupervised wireless rollover,
+bluetooth and other near field communication, and portable media devices
+that cross firewalls through physical transport.  Hackable clouds, public
+wifi, and an Internet of Things are very likely worse.  Because commercial
+computing has been prioritizing sales and access over security, too
+many applications have programmable environments for executable macro
+and attachment exploits.
+
+December 7th shows us that a fleet can share a base of operations,
+maintenance, and command, but not necessarily dock together and sleep
+together.  Massing of force can be good, but swarms can be neutralized
+or eliminated en masse; there may be other ways to concentrate firepower
+without sharing vulnerabilities.  The coveted carriers were based at
+Pearl Harbor but operated independently of the ships tethered and sunk
+at Ford Island:  Admiral Halsey's Enterprise carrier group, with three
+cruisers and nine destroyers, was at Wake Island; Lexington and her eight
+escorts were near Midway Island; and the Saratoga was being fitted with
+its aerial complement at the NAS San Diego.
+
+It is important to manage connectivity, not just maximize it.  Many of
+today's conveniences:  remote access through virtual desktops, remote
+updates, and networked file systems, are today's battleship row.
+
+"What the USS West Virginia had to actually guard itself against
+was collateral damage from the explosion at the USS Arizona."
+(http://www.pearlharborinhawaii.com/usswestvirginia.html)
+
+
+Cross-Train Pilots, Cross-Train Systems Administrators
+
+Some of what went right on December 7th happened by accident.
+P-36s were being replaced by P-40s.  One was good at diving onto low
+flying formations, and the other was more controllable in a dogfight,
+and both kinds of enemy planes needed to be engaged.  Many of the pilots
+in P-36s that day were originally assigned to P-40s and vice versa,
+but they had all been trained on both.
+
+Cross training of sysadmins is the direct analogy.  Many IT departments
+train their first responders to know all of the important systems because
+they often need to cover late night and weekend 24-hour help requests.
+But very few information technology departments have shared coverage
+agreements, or training, with other, related information technology
+departments within a large organization.  One sysadmin and his staff
+serves one group; another sysadmin and her staff serves another;
+information about resources and requirements is shared only by accident.
+
+Contrast this with a squadron of pilots that can jump into another
+squadron's planes at any time, where each squadron already understands
+how to coordinate and communicate, and can provide air superiority,
+pursuit, patrol, or reconnaissance as needed.
+
+"[Pilot] Dains flew three missions on the morning of 7 December 1941,
+... . The first two missions were flown in a P-40 type airplane, and
+the third mission in a P-36 type airplane." (Silver Star citation for
+Lt. John Leroy Dains)
+
+
+Diversify Systems, Preserve Headroom, Resist Consolidation
+
+IT managers are routinely pressured to consolidate in order to control
+costs.  The hidden cost of consolidation is the reduced robustness and
+reduced survivability of the system.  Some preach maximized utilization as
+"maximum efficiency."  But this means no headroom for bursts, no room for
+failure or damage, no room for best-practices experimentation, seizing
+opportunities, or performing additional training.  It means no room to
+respond to the stress induced by an adversary.
+
+DARPA's Dan Kaufman has been thinking about preserving system
+heterogeneity in an era of consolidation:
+
+"Memo:  To improve information security and reduce overall IT operating
+costs, we're going to put everyone on the same system.  [T]hose are two
+radically different things.  ... I buy ... that it will save us money.
+[T]o somehow make this wild jump that somehow we're all more secure,
+I don't see any foundation for it."  (Kaufman at 15:09)
+
+"We heard a lot about heterogeneous systems; we all know there are huge
+advantages to them.  But the cry you hear from the IT managers is,
+well they're inherently unmanageable.  [I]t's a DARPA question to ask
+ourselves 'why?'.  These things aren't written in stone; they're just
+things we've accepted over time.  And so we try to drive our programs
+to break these false choices."  (Kaufman at 23:39)
+
+A 3-way mix of platforms is much more robust against adversarial action,
+compared to a single platform, because the probability of successful
+attack on all three is the product of the probability of successful attack
+on each.  To achieve a high degree of confidence of disabling the system,
+an attacker must plan for a significantly higher probability of success
+against each component.
+
+For example, with a 90% chance of a successful attack against each
+independent channel, a 1-channel system survives 10% of the time, a
+2-channel system survives 19% of the time, 3-channel 37%, 4-channel 34%,
+and a 5-channel system survives 41% of the time.
+
+Many engineers in traditional engineering subjects are taught to think
+this way, but information technology has developed with a different
+culture.  Computing culture has always been about "shiny and new,"
+but one way to increase heterogeneity with little cost is simply to
+stage upgrades.
+
+Considering the potential insider-threat from a disgruntled former systems
+administrator, it may be wise to retain older systems with existing
+personnel as a second pathway.  At the very least, older systems have
+functions that are proven and engineering that is well understood.
+
+
+Imperfection is Not The Enemy
+
+Oahu had ten airfields functioning and most were ruined in the first
+hour:  Kahuku Point Airfield, Kaneohe Naval Air Station, Bellows Field,
+Hickam Field, Honolulu Naval Air Station/John Rodgers Field/Naval Air
+Station Barbers Point, Ford Island, Wheeler Field, Ewa Marine Corps
+Air Station, and Dillingham Mokuleia Airfield.  Each name conjures
+images of planes burning on the ground.
+
+The tenth airfield, Haleiwa, was an "emergency landing strip," a grass
+airfield with no hangars.  Apparently it did not appear on the Japanese
+pilots' maps.  From the tenth, pilots Taylor, Welch, Brown, Rogers,
+Dains, Webster, and others took to the air with impressive results.
+
+The key lesson of Haleiwa is that it didn't cost much at all because
+its operational standard was far below the others.  Nevertheless, it had
+existential capacity for two hours when nine primary airfields were down.
+
+"Those on temporary duty [at Haleiwa] had to bring their own tents &
+equipment." (Goldstein-Dillon-Wenger)
+
+
+Decimated Capacity May Yet Support Normal Function
+
+Less than 10% of USAAF aircraft made it into the air that day, but they
+sufficed, in combination with ground anti-aircraft, to regain control
+of island skies within hours.  Of 402 planes stationed on the ground,
+42 planes made 81 take-offs that day.  (Morison)
+
+Like the defense of Oahu, most computer systems are deployed with
+over-capacity, specifically to cope with bursts.
+
+For a computer or communications system at peak, the resource demand is
+often 100x-1000x the normal load.  For example, on our UIS cyber range,
+we measure just 5% cpu utilization on an old 1GHz webserver with 2000
+apache2 listeners serving 50,000 requests per minute for a 1kb file.
+Depending on load balancing, a healthy organization should serve 100
+requests per minute externally and 1-to-10 per minute internally, which
+would put the peak rate several orders of magnitude above the existential
+requirement.  Similar ratios can be observed for network and disk bursts
+compared to averages, simply by watching performance meters.
+
+Due to Moore's law, an exponential reduction of capacity may only be
+the difference between computing in 2011 and computing in 2001.
+
+Cyber attacks that target systems, as opposed to data, may be hard
+to press to completion; they may do extensive damage but not damage
+everything needed to incapacitate.
+
+
+Downtime is not so Bad if Recovery is Quick
+
+The impressive air-to-air score did not reverse the IJN victory.  But once
+Wheeler Air Field was put back in operation, with Haleiwa, 81 planes
+made takeoffs.  It was enough to bring the attack to an end by noon.
+
+A systems administrator could hear this as "within the first hour,
+two firewalls were back up, then all the essential services, and by
+noon, our mirrored databases were online and we were doing forensics
+and attribution."
+
+The aerial attack could not be sustained, especially after such distant
+force projection.  Cyber attacks may be equally hard to sustain.  A denial
+of service attack cannot be projected across many hops without eventual
+diminution; it is a storm, not a siege.  Machines get restarted with
+fresh images and IP addresses get black-listed.  Mitigation strategies
+take hold.
+
+Full restoration and reconfiguration may take time, but the key question
+is how quickly things can be restored and patched.  The real story was
+that Pearl Harbor itself was back at full capacity within weeks of the
+attack as a U.S. naval base.
+
+In the near future, restoration of information services might be
+done so quickly that downtime could become a secondary consideration.
+The well-prepared and well-provisioned sysadmin can often just unplug a
+compromised machine, putting a recent copy in its place.  Virtualization
+and better firewall scripting may soon be more helpful here.
+
+
+Hardware Slaughter is not Strategic Victory
+
+Particularly relevant to today's cyber landscape is the sheer inventory
+that can be damaged in an attack.  One can expect a lot of of devices
+to go down instantly.  The psychological impact is severe.
+
+But today's surviving device is capable, like a surviving carrier group.
+In fact, some damage can be a blessing in disguise.  The torpedoed
+battleships were so old that they would have been fuel-wasting hulks
+during the quickly modernizing Pacific campaign.
+
+The proper place for damage assessment is in the secondary effects:
+what did the adversary do during the outage?  Did any Japanese boots
+march on U.S. soil?  Was the IJN able to project meaningful force upon
+the West Coast because it knocked down Pearl Harbor for a few weeks, or
+did it just send a sub to shell the dock at Long Beach?  Would a full
+USN flotilla have altered the fate of the British Repulse and Prince of
+Wales, three days later on the other side of the ocean?  What did the
+clients actually lose during the downtime or intrusion?  Were the right
+decisions made for a proportional and distinctive response to the proper
+parties, with a view toward long term outcomes?
+
+Beyond the secondary effects, what is the socio-political damage?
+Despite massive morning losses, who won the war?  Most understood, even
+shortly after the attack, that Pearl Harbor was one of history's biggest
+strategic blunders.  The attacking nation had gambled on U.S. capitulation
+in the face of shock and awe, and they were wrong.
+
+“Pearl Harbor may well have been ... a disaster.  It clearly was
+... for the attackers.   [It] propelled the [U.S.] heedlessly into a
+long, ghastly war in Asia when continued containment ... might have
+rolled back the Japanese empire at lower cost to all ... .” (Mueller)
+
+
+Conclusion
+
+The Japanese surprise attack on Pearl Harbor could have gone the other
+way if U.S. carriers, fuel reserves, and national morale had figured
+differently.  It will be the same with massive surprise cyber attack.
+Systems have to be well engineered to survive.  Oahu's air defenses were
+well engineered despite command and intelligence blunders.
+
+There can be shocking numerical losses in cyberspace.  But in properly
+engineered systems, multi-path systems with logical diversity, mirroring,
+redundancy, and sufficient independence, those losses will be "syntactic,
+not semantic."
+
+Pearl Harbor is actually an excellent example of shocking paper losses
+that amounted to nothing in strategic terms.  We mourn the deaths of
+servicemen and civilians, but we survived the attack.  Those who can
+transform the lessons of the past should likewise be positioned to endure
+a cyber Pearl Harbor.
+
+There are other kinds of threats in cyber space besides massive surprise
+attack; those other threats may well require different security
+considerations.  Still, Pearl Harbor remains in national memory as
+a motivating example.  It remains of national interest, from the 1970
+film Tora, Tora, Tora, to the auspiciously timed 2001 film Pearl Harbor;
+from one PBS documentary, The War, to the next, The Roosevelts.
+
+Suppose we could inspect the computing systems of today's organizations
+that would be subject to massive surprise cyber-attack.  Would we see
+the lessons of Pearl Harbor learned and transformed, or would we see
+the philosophies of General Short and Admiral Kimmel:  rows of airplanes
+wingtip to wingtip, and battleships anchored in a tight line of neat
+pairs?
+
+
+Dedication
+
+This paper is dedicated to our high school computing teacher, 2d Lt Henry
+Wells Lawrence, who was with the Wheeler AFB pilots in the air on December
+7th.  Mr. Lawrence's plane was shot down with Gordon H. Sterling in it.
+
+
+References
+
+Buimiller, Elisabeth, and T. Shanker, 'Panetta warns of dire threat of
+cyberattack on U.S.,' New York Times, October 11, 2012.
+
+Defense Advanced Research Projects Agency, FY 2013 Budget Estimates,
+Department of Defense Fiscal Year (FY) 2013 President's Budget Submission
+February 2012.
+
+Defense Advanced Research Projects Agency, Cyber Fault-tolerant Attack
+Recovery (CFAR) Solicitation Number: DARPA-BAA-14-64.
+
+Department of the Air Force, Capabilities for Cyber Resiliency
+Solicitation Number: BAA-RIK-14-07, August 1, 2014.
+
+Door, Robert, Air Combat: An Oral History of Fighter Pilots (London:
+Penguin Group 2007).
+
+Forrest, Stephanie, S. A. Hofmeyr, and A Somayaji, Computer 
+Immunology, CACM 40/10 (1997), 88-96.
+
+Gabreski, Francis, Gabby:  A Fighter Pilot's Life (New York: Orion
+Books 1991).
+
+Goldstein, Donald M., Dillon, K. V., and Wenger, J. Michael,
+The Way it Was: Pearl Harbor -- The Original Photographs (Dulles:
+Potomac Books 1995).
+
+Horvat, William J., Above the Pacific (Fallbrook: Aero Publishers 1966).
+
+Infosecurity News, Disttrack/Shamoon: a new targeted and destructive
+virus, 17 Aug 2012.
+
+Infosecurity News, Saudi Aramco Cyber Attacks a 'wake up call,' says
+Former NSA Boss, 8 May 2014.
+
+Kaufman, Dan, 'Information: A Force Multiplier,' DARPA I2O Office Report
+to the CRA, Feb 28, 2011.
+
+Loui, E.  Next Generation Cyber Conflict, Master's Thesis, American
+University, 2013.
+
+Morison, Samuel E., The Rising Sun in the Pacific, 1931 - April 1942:
+History of United States Naval Operations in World War II, Volume 3
+(Boston: Little, Brown, and Company 1948).
+
+Mueller, John, 'Pearl Harbor:  Military Inconvenience, Political
+Disaster,' International Security 16/3 (1991), 172-203.
+
+Persyn, Lionel, Stenman, K., and Thomas, A., P-36 Hawk Aces of
+World War 2 (Oxford: Osprey, 2009).
+
+Prange, Gordon W., D. M. Goldstein, K. V. Dillon, At Dawn We Slept:
+the untold story of Pearl Harbor (New York: McGraw-Hill, 1981).
+
+Record, Jeffrey, Japan's Decision for War in 1941: Some Enduring Lessons
+(Carlisle: Strategic Studies Institute 2009).
+
+Rodriggs, Lawrence R., We Remember Pearl Harbor:  Honolulu Civilians
+Recall the War Years, 1941-1945 (Newark CA:  Communications
+Concepts, 1991).
+
+Scott, Roger D., 'Kimmel, Short, Mcvay: Case Studies in Executive
+Authority, Law and the Individual Rights of Military Commanders,'
+Mil. L. Rev. 156 (1998), 52
+
+Seffers, George I., 'Shifting Tides of Cyber,' AFCEA Signal (July 1,
+2013), 35-37.
+
+Slackman, Michael, Target: Pearl Harbor (Honolulu: University of Hawaii
+Press, 1990).
+
+Symantec, Security Response:  The Shamoon Attacks, 16 Aug 2012.
+
+
+Bios
+
+Ronald P. Loui, Ph.D., is Assistant Professor of Computer Science at the
+University of Illinois-Springfield where he has taught graduate seminars
+in cyberwarfare to hundreds of online students over the past three years.
+He was a tenured professor for twenty years specializing in artificial
+intelligence, systems optimization and performance, then a consultant
+for a large hospital and intelligence agency.  He studied law of war
+and information war at Harvard.
+
+Terrence D. Loui was a civilian contractor with a top secret clearance
+and one of the earliest network security/support engineers at The Defense
+Communications Agency, Wheeler AFB in Honolulu (DCA-PAC, later Defense
+Information Systems Agency, DISA-PAC).  He was a graduate of Chaminade
+University and Punahou School in Hawaii and an avid student of Pearl
+Harbor military history.
+
+
+Contact
+
+r.p.loui@gmail.com
+
+Ronald Loui
+
+Department of Computer Science, University of Illinois-Springfield 62704
+
+*The second author is recently deceased.
