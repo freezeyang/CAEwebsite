@@ -405,6 +405,26 @@ td.home-main {
   .main,
   .main1 { padding: 1rem 0.9rem 1.2rem !important; }
 
+  /* Mobile override for legacy fixed-width table cells */
+  table[width="740"] td[width="239"],
+  table[width="740"] td[width="500"],
+  td.side_bar,
+  td.side_bar_up,
+  td.side_bar_down,
+  td.main,
+  td.main1,
+  td.home-main {
+    width: 100% !important;
+    max-width: none !important;
+  }
+
+  /* Keep sidebar content readable and less tall on phones */
+  td.side_bar,
+  td.side_bar_up,
+  td.side_bar_down {
+    padding: 0.85rem 0.9rem !important;
+  }
+
   .uis-site-footer .inner {
     grid-template-columns: 1fr;
   }
