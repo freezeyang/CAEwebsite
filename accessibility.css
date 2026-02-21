@@ -185,7 +185,49 @@ td.home-main {
   background-color: var(--uis-sky) !important;
   border-radius: 12px 0 0 12px;
   padding: 1rem 0.85rem 1rem 1rem !important;
-  color: #143957;
+  color: #0e2438;
+  font-size: 1.01rem;
+  line-height: 1.65;
+}
+
+.side_bar p,
+.side_bar_up p,
+.side_bar_down p,
+.side_bar li,
+.side_bar_up li,
+.side_bar_down li {
+  color: #0e2438 !important;
+}
+
+.side_bar a,
+.side_bar_up a,
+.side_bar_down a {
+  color: #0b3a67 !important;
+}
+
+.side_bar a:hover,
+.side_bar_up a:hover,
+.side_bar_down a:hover {
+  color: #082843 !important;
+}
+
+/* Specific homepage CSSIA link color override */
+a.cssia-link-white {
+  color: #ffffff !important;
+}
+
+a.cssia-link-white:hover {
+  color: #ffffff !important;
+}
+
+/* Force readable marquee/legacy font-tag notice text */
+.side_bar marquee,
+.side_bar_up marquee,
+.side_bar_down marquee,
+.side_bar marquee font,
+.side_bar_up marquee font,
+.side_bar_down marquee font {
+  color: #0e2438 !important;
 }
 
 .main h1,
@@ -236,6 +278,7 @@ td.home-main {
   padding: 0.5rem 0.65rem;
   font-weight: 700;
   line-height: 1.4;
+  font-size: 1.01rem;
 }
 
 #topics a:hover {
@@ -332,7 +375,7 @@ td.home-main {
   background: #fff;
   border-radius: 6px;
   padding: 0.55rem 0.65rem;
-  color: #12354f;
+  color: #030303;
   font-weight: 600;
 }
 
@@ -519,6 +562,7 @@ td.home-main {
 .home-side .side-highlight li {
   margin-bottom: 0.3rem;
 }
+
 
 @media (max-width: 900px) {
   .home-main .home-hero {
